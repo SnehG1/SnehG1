@@ -1,0 +1,2 @@
+First line inside a.txt
+
